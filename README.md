@@ -1,2 +1,3 @@
 # jackson-deserialization-lab
-A Security Lab to test and practice Jackson Json Vulnerability 
+A Security Lab to test and practice Jackson Deserialization Vulnerability 
+
