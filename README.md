@@ -3,7 +3,7 @@ A Security Lab to test and practice Jackson Deserialization Vulnerability
 
 
 # Steps
-1. Host the spel.xml on a VPS or local python server and make sure its accessible through the web
+1. Host the spel.xml on a VPS/localhost server
 2. In the payload.json, replace the x.x.x.x with the IP of VPS/localhost where the spel.xml is hosted.
 
 
