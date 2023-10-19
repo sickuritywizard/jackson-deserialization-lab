@@ -17,4 +17,6 @@ A Security Lab to test and practice Jackson Deserialization Vulnerability
 4. Use version of Jackson that does not (yet) block “gadget” class in question (set of published exploits grows over time so it is a race between exploits and patches)
 
 
+# Note
+Blacklisted Gadgets: https://github.com/FasterXML/jackson-databind/blob/12e23c962ffb4cf1857c5461d72ae54cc8008f29/src/main/java/com/fasterxml/jackson/databind/jsontype/impl/SubTypeValidator.java <br>
 Amazing Read: https://cowtowncoder.medium.com/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062 
